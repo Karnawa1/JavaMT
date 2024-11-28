@@ -1,0 +1,203 @@
+2024-11-27 17:19:58.130 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 0 - Info message
+2024-11-27 17:19:58.130 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 0 - Info message
+2024-11-27 17:19:58.130 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 0 - Info message
+2024-11-27 17:19:58.130 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 0 - Info message
+2024-11-27 17:19:58.130 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 0 - Info message
+2024-11-27 17:19:58.132 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 0 - Debug message
+2024-11-27 17:19:58.132 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 0 - Debug message
+2024-11-27 17:19:58.132 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 0 - Debug message
+2024-11-27 17:19:58.132 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 0 - Debug message
+2024-11-27 17:19:58.132 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 0 - Debug message
+2024-11-27 17:19:58.233 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 1 - Info message
+2024-11-27 17:19:58.233 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 1 - Info message
+2024-11-27 17:19:58.233 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 1 - Info message
+2024-11-27 17:19:58.233 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 1 - Debug message
+2024-11-27 17:19:58.233 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 1 - Debug message
+2024-11-27 17:19:58.233 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 1 - Debug message
+2024-11-27 17:19:58.247 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 1 - Info message
+2024-11-27 17:19:58.247 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 1 - Info message
+2024-11-27 17:19:58.247 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 1 - Debug message
+2024-11-27 17:19:58.247 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 1 - Debug message
+2024-11-27 17:19:58.340 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 2 - Info message
+2024-11-27 17:19:58.340 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 2 - Info message
+2024-11-27 17:19:58.340 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 2 - Info message
+2024-11-27 17:19:58.340 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 2 - Debug message
+2024-11-27 17:19:58.340 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 2 - Debug message
+2024-11-27 17:19:58.340 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 2 - Debug message
+2024-11-27 17:19:58.356 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 2 - Info message
+2024-11-27 17:19:58.356 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 2 - Info message
+2024-11-27 17:19:58.356 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 2 - Debug message
+2024-11-27 17:19:58.356 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 2 - Debug message
+2024-11-27 17:19:58.451 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 3 - Info message
+2024-11-27 17:19:58.451 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 3 - Info message
+2024-11-27 17:19:58.451 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 3 - Info message
+2024-11-27 17:19:58.451 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 3 - Debug message
+2024-11-27 17:19:58.451 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 3 - Debug message
+2024-11-27 17:19:58.451 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 3 - Debug message
+2024-11-27 17:19:58.466 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 3 - Info message
+2024-11-27 17:19:58.466 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 3 - Debug message
+2024-11-27 17:19:58.466 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 3 - Info message
+2024-11-27 17:19:58.466 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 3 - Debug message
+2024-11-27 17:19:58.553 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 4 - Info message
+2024-11-27 17:19:58.553 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 4 - Info message
+2024-11-27 17:19:58.553 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 4 - Debug message
+2024-11-27 17:19:58.553 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 4 - Debug message
+2024-11-27 17:19:58.559 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 4 - Info message
+2024-11-27 17:19:58.559 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 4 - Debug message
+2024-11-27 17:19:58.575 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 4 - Info message
+2024-11-27 17:19:58.575 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 4 - Debug message
+2024-11-27 17:19:58.575 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 4 - Info message
+2024-11-27 17:19:58.575 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 4 - Debug message
+2024-11-27 17:19:58.668 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 5 - Info message
+2024-11-27 17:19:58.668 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 5 - Info message
+2024-11-27 17:19:58.668 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 5 - Info message
+2024-11-27 17:19:58.668 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 5 - Debug message
+2024-11-27 17:19:58.668 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 5 - Debug message
+2024-11-27 17:19:58.668 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 5 - Debug message
+2024-11-27 17:19:58.684 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 5 - Info message
+2024-11-27 17:19:58.684 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 5 - Debug message
+2024-11-27 17:19:58.684 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 5 - Info message
+2024-11-27 17:19:58.684 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 5 - Debug message
+2024-11-27 17:19:58.777 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 6 - Info message
+2024-11-27 17:19:58.777 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 6 - Info message
+2024-11-27 17:19:58.777 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 6 - Info message
+2024-11-27 17:19:58.777 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 6 - Debug message
+2024-11-27 17:19:58.777 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 6 - Debug message
+2024-11-27 17:19:58.777 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 6 - Debug message
+2024-11-27 17:19:58.793 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 6 - Info message
+2024-11-27 17:19:58.793 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 6 - Info message
+2024-11-27 17:19:58.793 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 6 - Debug message
+2024-11-27 17:19:58.793 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 6 - Debug message
+2024-11-27 17:19:58.887 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 7 - Info message
+2024-11-27 17:19:58.887 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 7 - Info message
+2024-11-27 17:19:58.887 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 7 - Info message
+2024-11-27 17:19:58.887 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 7 - Debug message
+2024-11-27 17:19:58.887 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 7 - Debug message
+2024-11-27 17:19:58.887 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 7 - Debug message
+2024-11-27 17:19:58.903 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 7 - Info message
+2024-11-27 17:19:58.903 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 7 - Info message
+2024-11-27 17:19:58.903 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 7 - Debug message
+2024-11-27 17:19:58.903 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 7 - Debug message
+2024-11-27 17:19:58.996 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 8 - Info message
+2024-11-27 17:19:58.996 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 8 - Info message
+2024-11-27 17:19:58.996 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 8 - Debug message
+2024-11-27 17:19:58.996 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 8 - Info message
+2024-11-27 17:19:58.996 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 8 - Debug message
+2024-11-27 17:19:58.996 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 8 - Debug message
+2024-11-27 17:19:59.012 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 8 - Info message
+2024-11-27 17:19:59.012 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 8 - Info message
+2024-11-27 17:19:59.012 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 8 - Debug message
+2024-11-27 17:19:59.012 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 8 - Debug message
+2024-11-27 17:19:59.096 [pool-1-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 9 - Info message
+2024-11-27 17:19:59.096 [pool-1-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 9 - Debug message
+2024-11-27 17:19:59.107 [pool-1-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 9 - Info message
+2024-11-27 17:19:59.107 [pool-1-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 9 - Info message
+2024-11-27 17:19:59.107 [pool-1-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-2: Iteration 9 - Debug message
+2024-11-27 17:19:59.107 [pool-1-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-4: Iteration 9 - Debug message
+2024-11-27 17:19:59.122 [pool-1-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 9 - Info message
+2024-11-27 17:19:59.122 [pool-1-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 9 - Info message
+2024-11-27 17:19:59.122 [pool-1-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-3: Iteration 9 - Debug message
+2024-11-27 17:19:59.122 [pool-1-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 9 - Debug message
+2024-11-27 17:19:59.234 [main] INFO  org.sdc.logger.ThreadSafeLogger - All threads completed logging
+2024-11-27 17:37:43.105 [main] INFO  org.sdc.logger.ThreadSafeLogger - Starting in NORMAL logging state
+2024-11-27 17:37:43.108 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - Thread-1: Iteration 0 - Info message
+2024-11-27 17:37:43.108 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 0 - Info message
+2024-11-27 17:37:43.109 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - Thread-5: Iteration 0 - Debug message
+2024-11-27 17:37:43.109 [main] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] main - Switched to VERBOSE logging state
+2024-11-27 17:37:43.109 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 0 - Info message
+2024-11-27 17:37:43.110 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 0 - Debug message
+2024-11-27 17:37:43.110 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 0 - Info message
+2024-11-27 17:37:43.111 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 0 - Debug message
+2024-11-27 17:37:43.111 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 0 - Info message
+2024-11-27 17:37:43.111 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 0 - Debug message
+2024-11-27 17:37:43.111 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 0 - Debug message
+2024-11-27 17:37:43.220 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 1 - Info message
+2024-11-27 17:37:43.220 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 1 - Debug message
+2024-11-27 17:37:43.220 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 1 - Info message
+2024-11-27 17:37:43.220 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 1 - Debug message
+2024-11-27 17:37:43.220 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 1 - Info message
+2024-11-27 17:37:43.221 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 1 - Debug message
+2024-11-27 17:37:43.221 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 1 - Info message
+2024-11-27 17:37:43.221 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 1 - Debug message
+2024-11-27 17:37:43.221 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 1 - Info message
+2024-11-27 17:37:43.221 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 1 - Debug message
+2024-11-27 17:37:43.321 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 2 - Info message
+2024-11-27 17:37:43.321 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 2 - Debug message
+2024-11-27 17:37:43.321 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 2 - Info message
+2024-11-27 17:37:43.321 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 2 - Debug message
+2024-11-27 17:37:43.330 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 2 - Info message
+2024-11-27 17:37:43.330 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 2 - Info message
+2024-11-27 17:37:43.330 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 2 - Debug message
+2024-11-27 17:37:43.330 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 2 - Info message
+2024-11-27 17:37:43.331 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 2 - Debug message
+2024-11-27 17:37:43.331 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 2 - Debug message
+2024-11-27 17:37:43.423 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 3 - Info message
+2024-11-27 17:37:43.423 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 3 - Debug message
+2024-11-27 17:37:43.423 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 3 - Info message
+2024-11-27 17:37:43.423 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 3 - Debug message
+2024-11-27 17:37:43.437 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 3 - Info message
+2024-11-27 17:37:43.437 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 3 - Debug message
+2024-11-27 17:37:43.437 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 3 - Info message
+2024-11-27 17:37:43.438 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 3 - Debug message
+2024-11-27 17:37:43.438 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 3 - Info message
+2024-11-27 17:37:43.438 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 3 - Debug message
+2024-11-27 17:37:43.529 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 4 - Info message
+2024-11-27 17:37:43.529 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 4 - Debug message
+2024-11-27 17:37:43.529 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 4 - Info message
+2024-11-27 17:37:43.530 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 4 - Debug message
+2024-11-27 17:37:43.539 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 4 - Info message
+2024-11-27 17:37:43.539 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 4 - Debug message
+2024-11-27 17:37:43.545 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 4 - Info message
+2024-11-27 17:37:43.545 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 4 - Debug message
+2024-11-27 17:37:43.545 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 4 - Info message
+2024-11-27 17:37:43.545 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 4 - Debug message
+2024-11-27 17:37:43.640 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 5 - Info message
+2024-11-27 17:37:43.640 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 5 - Debug message
+2024-11-27 17:37:43.640 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 5 - Info message
+2024-11-27 17:37:43.640 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 5 - Debug message
+2024-11-27 17:37:43.640 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 5 - Info message
+2024-11-27 17:37:43.641 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 5 - Debug message
+2024-11-27 17:37:43.655 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 5 - Info message
+2024-11-27 17:37:43.655 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 5 - Debug message
+2024-11-27 17:37:43.655 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 5 - Info message
+2024-11-27 17:37:43.655 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 5 - Debug message
+2024-11-27 17:37:43.741 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 6 - Info message
+2024-11-27 17:37:43.741 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 6 - Debug message
+2024-11-27 17:37:43.750 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 6 - Info message
+2024-11-27 17:37:43.750 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 6 - Debug message
+2024-11-27 17:37:43.750 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 6 - Info message
+2024-11-27 17:37:43.750 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 6 - Debug message
+2024-11-27 17:37:43.756 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 6 - Info message
+2024-11-27 17:37:43.756 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 6 - Debug message
+2024-11-27 17:37:43.765 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 6 - Info message
+2024-11-27 17:37:43.765 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 6 - Debug message
+2024-11-27 17:37:43.843 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 7 - Info message
+2024-11-27 17:37:43.843 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 7 - Debug message
+2024-11-27 17:37:43.859 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 7 - Info message
+2024-11-27 17:37:43.859 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 7 - Debug message
+2024-11-27 17:37:43.859 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 7 - Info message
+2024-11-27 17:37:43.859 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 7 - Debug message
+2024-11-27 17:37:43.859 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 7 - Info message
+2024-11-27 17:37:43.859 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 7 - Debug message
+2024-11-27 17:37:43.874 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 7 - Info message
+2024-11-27 17:37:43.874 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 7 - Debug message
+2024-11-27 17:37:43.952 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 8 - Info message
+2024-11-27 17:37:43.952 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 8 - Debug message
+2024-11-27 17:37:43.959 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 8 - Info message
+2024-11-27 17:37:43.959 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 8 - Debug message
+2024-11-27 17:37:43.961 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 8 - Info message
+2024-11-27 17:37:43.961 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 8 - Debug message
+2024-11-27 17:37:43.967 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 8 - Info message
+2024-11-27 17:37:43.967 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 8 - Debug message
+2024-11-27 17:37:43.983 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 8 - Info message
+2024-11-27 17:37:43.983 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 8 - Debug message
+2024-11-27 17:37:44.060 [pool-2-thread-5] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 9 - Info message
+2024-11-27 17:37:44.060 [pool-2-thread-5] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-5 - Thread-5: Iteration 9 - Debug message
+2024-11-27 17:37:44.062 [pool-2-thread-1] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 9 - Info message
+2024-11-27 17:37:44.062 [pool-2-thread-1] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-1 - Thread-1: Iteration 9 - Debug message
+2024-11-27 17:37:44.062 [pool-2-thread-4] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 9 - Info message
+2024-11-27 17:37:44.062 [pool-2-thread-4] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-4 - Thread-4: Iteration 9 - Debug message
+2024-11-27 17:37:44.077 [pool-2-thread-2] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 9 - Info message
+2024-11-27 17:37:44.077 [pool-2-thread-2] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-2 - Thread-2: Iteration 9 - Debug message
+2024-11-27 17:37:44.093 [pool-2-thread-3] INFO  org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 9 - Info message
+2024-11-27 17:37:44.093 [pool-2-thread-3] DEBUG org.sdc.logger.ThreadSafeLogger - [VERBOSE] pool-2-thread-3 - Thread-3: Iteration 9 - Debug message
